@@ -4,6 +4,10 @@
 .Ruserdata
 data_download/
 
+*.html
+
+outputs/
+
 # History files
 .Rhistory
 .Rapp.history
